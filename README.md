@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">A passionate developer from India who loves messing around with Computers</h3>
 
-- 🔭 I’m currently working on [simple-chip8](https://github.com/ujjwal-dev23/simple-chip8)
+- 🔭 I’m currently working on [vidtube](https://github.com/ujjwal-dev23/vidtube)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
