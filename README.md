@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">A passionate developer from India who loves messing around with Computers</h3>
 
-- 🔭 I’m currently working on [nextjs-auth](https://github.com/ujjwal-dev23/nextjs-auth)
+- 🔭 I’m currently working on [pollufight](https://github.com/ujjwal-dev23/pollufight)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
