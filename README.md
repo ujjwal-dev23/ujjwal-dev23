@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">A passionate developer from India who loves messing around with Computers</h3>
 
-- 🔭 I’m currently working on [knuckles_on_code](https://github.com/ujjwal-dev23/knuckles_on_code/)
+- 🔭 I’m currently working on [ujjwal-dev23.github.io](https://github.com/ujjwal-dev23/ujjwal-dev23.github.io)
 
 - 🌱 I’m currently learning **Game Narrative Design**
 
