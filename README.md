@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Narrative Design**
 
-- 👨‍💻 All of my projects are available at https://github.com/ujjwal-dev23
+- 👨‍💻 All of my projects are available at https://ujjwal-dev23.github.io/projects/
 
 - 💬 Ask me about **Linux (especially Arch Linux), C/C++, Python**
 
