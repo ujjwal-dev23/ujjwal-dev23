@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Linux (especially Arch Linux), C/C++, Python**
 
-- 📫 Reach me at **ujjwalkandera23@tutamail.com**
+- 📫 Reach me at **ujjwalkandera23@tutamail.com** or [Matrix](https://matrix.to/#/@knuckles:mikumiku.int.yt)
 
 - ⚡ Fun fact **I tend to break things and learn about them while fixing them.**
 
